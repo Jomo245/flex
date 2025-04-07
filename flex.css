@@ -1,8 +1,61 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
 .one{width: 80%;
     height: 70vh;
     background-color: wheat;
     margin: auto;
     display: flex;
+    gap: 20px;
+
   }
 
-  .
+  .two{height: 100%;
+    width: 50%;
+    background: aqua;
+  }
+
+    .three{display: block;
+      align-content: center;
+          height:100%;
+          gap: 20px;
+          width: 50%;
+         
+             }
+
+    .four{height:50%;
+         width: 100%;
+        display: flex;
+        gap: 20px;}
+
+    .five{height:50%;
+          width: 100%;
+          display: flex;
+      
+          gap: 20px;}  
+       
+   .six{width: 50%;
+        height: 100%;
+        background-color: red;
+        }    
+
+   .seven{width: 50%;
+    height: 100%;
+    background-color: rgb(133, 119, 119);} 
+    
+    .eight{width: 50%;
+      height: 100%;
+      background-color:rgb(168, 85, 85);
+    }
+
+
+    .nine{width: 50%;
+    height: 100%;
+    background-color: rgb(68, 0, 255);
+    margin:auto; 
+    }  
+ 
+
+
+
